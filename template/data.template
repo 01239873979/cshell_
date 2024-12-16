@@ -1,0 +1,12 @@
+
+Area_power_ring_um2
+Clock_cycle
+Clock_high_read_data_valid_A
+AddressA_setup
+AddressA_hold
+Data_setup
+Data_hold
+P_read_pJ
+P_write_pJ
+P_noop_pJ
+Leakage_static_uW

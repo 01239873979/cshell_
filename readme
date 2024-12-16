@@ -1,0 +1,8 @@
+Write a cshell script (collect.csh) to collect data with following requirements:
+- Get input from user with these syntax: collect.csh <instance_lst> <data_dir>"
+  With: <instance_lst>: Sample instance list instance_list/v0p9.lst
+	<data_dir>: data/com_v0p9
+- Collect all parameters in template/data.template with instances given in instance_lst
+- Sample output file: instance_list/v0p9.lst.txt
+- Remove all temporary files (If exists)
+- Make sure no unexpected issue when rerun the script.

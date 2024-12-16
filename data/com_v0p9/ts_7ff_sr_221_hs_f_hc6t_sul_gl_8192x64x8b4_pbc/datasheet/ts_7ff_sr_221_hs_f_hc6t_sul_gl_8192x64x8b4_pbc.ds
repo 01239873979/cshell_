@@ -1,0 +1,12 @@
+
+Area_power_ring_um2 29285.07696
+Clock_cycle 0.79960          
+Clock_high_read_data_valid_A 0.5034       
+AddressA_setup 0.17816          
+AddressA_hold 0.12818          
+Data_setup 0.07920          
+Data_hold 0.13444          
+P_read_pJ 20.8471       
+P_write_pJ 16.1117       
+P_noop_pJ 0.7749        
+Leakage_static_uW 5.7659050   
